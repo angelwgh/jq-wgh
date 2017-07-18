@@ -1,1 +1,3 @@
-# jq-wgh
+# 仿jQuery框架
+
+
