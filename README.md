@@ -11,4 +11,7 @@ npm install @angular/cli -g
     ng new my-app
 ```
 
-3. 
+3. 生成组件
+```
+    ng g component navbar
+```

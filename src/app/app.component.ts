@@ -14,5 +14,5 @@ import { Component } from '@angular/core';
 
 // ts类, 定义组件的控制器
 export class AppComponent {
-  title = 'app';
+    
 }
